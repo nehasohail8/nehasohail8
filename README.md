@@ -19,8 +19,6 @@ My name is Neha Sohail and I'm a second year computer science student from Canad
 
 Here's some info about me!
 
-🔭 I’m currently working on developing a Weather App using HTML,CSS and JAVASCRIPT
-
 🌱 I’m currently learning popular Javascript frameworks (  React JS · jQuery  · Angular · Express )
 
 📫 Reach me by LinkedIn! https://www.linkedin.com/in/neha-sohail/
