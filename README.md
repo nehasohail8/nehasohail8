@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Neha Sohail and I'm a second year computer science student from Canada. 
+My name is Neha Sohail and I'm a computer science student from Canada. 
 
 Here's some info about me!
 
